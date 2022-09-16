@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics and recitation
+  notes prepared by the course teaching assistant.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
